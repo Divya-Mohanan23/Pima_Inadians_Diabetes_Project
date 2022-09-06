@@ -1,8 +1,6 @@
 # Pima_Inadians_Diabetes_Project
 Import Dataset 
 **************
-
-Pima Indians Diabetes Database
 ------------------------------
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
